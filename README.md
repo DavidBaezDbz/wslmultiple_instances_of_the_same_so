@@ -15,3 +15,10 @@ Import
 wsl --import Ubuntu-20Dev .\Ubuntu-20Dev Ubuntu20.tar
 ```
 
+view the instance on WSL
+
+```sh
+wsl -l -v
+```
+
+![image](https://user-images.githubusercontent.com/55961928/179368800-c4030c38-9410-495f-8669-49493ce5f97a.png)
